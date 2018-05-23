@@ -1,0 +1,2 @@
+# yapilacaklar
+liste olusturma
